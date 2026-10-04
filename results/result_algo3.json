@@ -1,0 +1,11 @@
+{
+    "Member": "Member 3",
+    "Algorithm": "Random Forest",
+    "Best Parameter": "n_estimators=150",
+    "CV Train Accuracy": 0.9604395604395606,
+    "Test Accuracy": 0.956140350877193,
+    "Precision": 0.958904109589041,
+    "Recall": 0.9722222222222222,
+    "F1-Score": 0.9655172413793104,
+    "ROC-AUC": 0.9928902116402116
+}

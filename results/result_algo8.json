@@ -1,0 +1,11 @@
+{
+    "Member": "Member 8",
+    "Algorithm": "Gaussian Naive Bayes",
+    "Best Parameter": "var_smoothing=1.0e-01",
+    "CV Train Accuracy": 0.9362637362637363,
+    "Test Accuracy": 0.9473684210526315,
+    "Precision": 0.9459459459459459,
+    "Recall": 0.9722222222222222,
+    "F1-Score": 0.958904109589041,
+    "ROC-AUC": 0.9877645502645502
+}

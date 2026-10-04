@@ -1,0 +1,11 @@
+{
+    "Member": "Member 7",
+    "Algorithm": "Logistic Regression",
+    "Best Parameter": "C=0.1",
+    "CV Train Accuracy": 0.9802197802197803,
+    "Test Accuracy": 0.9736842105263158,
+    "Precision": 0.9726027397260274,
+    "Recall": 0.9861111111111112,
+    "F1-Score": 0.9793103448275862,
+    "ROC-AUC": 0.9957010582010581
+}

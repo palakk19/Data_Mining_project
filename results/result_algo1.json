@@ -1,0 +1,11 @@
+{
+    "Member": "Member 1 (You)",
+    "Algorithm": "Neural Network (MLP)",
+    "Best Parameter": "hidden_layers=(50, 25)",
+    "CV Train Accuracy": 0.9868131868131869,
+    "Test Accuracy": 0.9649122807017544,
+    "Precision": 0.9857142857142858,
+    "Recall": 0.9583333333333334,
+    "F1-Score": 0.971830985915493,
+    "ROC-AUC": 0.9930555555555555
+}

@@ -1,0 +1,11 @@
+{
+    "Member": "Member 6",
+    "Algorithm": "Decision Tree",
+    "Best Parameter": "max_depth=4",
+    "CV Train Accuracy": 0.9384615384615385,
+    "Test Accuracy": 0.9385964912280702,
+    "Precision": 0.9577464788732394,
+    "Recall": 0.9444444444444444,
+    "F1-Score": 0.951048951048951,
+    "ROC-AUC": 0.9341931216931217
+}
